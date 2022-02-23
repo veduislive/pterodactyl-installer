@@ -4,7 +4,7 @@ set -e
 
 #############################################################################
 #                                                                           #
-# Project 'pterodactyl-installer'                                           #
+# Project 'pterodactyl-installer'  By VeryDoOpGAMING#1234                   #
 #                                                                           #
 # Copyright (C) 2018 - 2022, Vilhelm Prytz  <vedangshinde1234@gmail.com>    #
 #                                                                           #
